@@ -28,7 +28,6 @@ Resources:
           wget https://raw.githubusercontent.com/BetulBahtinur/AWS-Projects/main/kittens-carousel-static/static-web/cat1.jpg
           wget https://raw.githubusercontent.com/BetulBahtinur/AWS-Projects/main/kittens-carousel-static/static-web/cat2.jpg
           wget https://raw.githubusercontent.com/BetulBahtinur/AWS-Projects/main/kittens-carousel-static/static-web/cat3.png
-          
           systemctl start httpd 
           systemctl enable httpd    
 
