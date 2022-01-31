@@ -11,7 +11,7 @@ Resources:
       InstanceType: t2.micro
       KeyName: ssh-key 
       SecurityGroups: 
-        - AA.SSH+HTTP
+        - ssh-http-project
       Tags:
         - 
           Key: Name
